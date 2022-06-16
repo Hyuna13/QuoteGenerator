@@ -1,4 +1,4 @@
 # QuoteGenerator
 
-+ Building Quote Generator using JavaScript
++ Building Quote Generator by using JavaScript
 + Learn from CodingNepal
